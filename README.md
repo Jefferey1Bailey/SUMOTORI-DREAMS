@@ -1,2 +1,2 @@
 # SUMOTORI-DREAMS
-Downlad simulator drams free
+Sumotori Dreams is a miniature sumo wrestling game that includes humorous self-balancing characters and tons of fun!
